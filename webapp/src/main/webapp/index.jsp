@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<body bgcolor="orange">
+<body bgcolor="blue">
 
 <h1>Hello BESANT Class</h1>
 <p><a href="https://www.google.com">Visit Google!</a></p>
